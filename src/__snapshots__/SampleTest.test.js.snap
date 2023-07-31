@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Sample Test Component Render the two strings 1`] = `
+<ul>
+  <li
+    key="0"
+  >
+    three
+  </li>
+  <li
+    key="1"
+  >
+    four
+  </li>
+  <li
+    key="2"
+  >
+    five
+  </li>
+  <li
+    key="3"
+  >
+    six
+  </li>
+</ul>
+`;

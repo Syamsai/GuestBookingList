@@ -1,0 +1,18 @@
+.box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: auto;
+}
+.guest_info {
+    border: 1px solid #eee;
+    display: flex;
+}
+.guest_name {
+    width: 100px;
+    padding: 10px;
+}
+.guest_date {
+    width: 100px;
+    padding: 10px;
+}
